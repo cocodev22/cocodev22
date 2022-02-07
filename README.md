@@ -1,6 +1,6 @@
   <h3 align="center" style="text-decoration: underline;">👋 Welcome to my profile! ✨</h3>
   
-[<img src="https://lanyard-profile-readme.vercel.app/api/261046946754461696" align="right">](https://discord.com/users/440871668370505748)
+
 
 <details>
   <summary>🖨️ My Projects</summary>
